@@ -1,4 +1,4 @@
-# My Data Science Playground!
+# **Data Science Playground!**
 
 Think of this as your map to explore all the fun and interesting projects I've built throughout my journey as a Data Scientist. Each project is an end-to-end walkthrough, designed to be a unique learning experience.
 
